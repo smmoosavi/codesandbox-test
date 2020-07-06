@@ -5,7 +5,7 @@ import {Button} from "./Button";
 function App() {
   return (
     <div className="App">
-      <Button>sample 1</Button>
+      <Button>poor sample 1</Button>
     </div>
   );
 }
